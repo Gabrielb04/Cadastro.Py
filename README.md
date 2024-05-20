@@ -1,7 +1,5 @@
 # Cadastro.Py
-# Jogo da Velha
-
-Este é um jogo da velha em Python, criado por Gabriel.
+Sistema de Login de Cadastro com Interface e Banco de Dados em arquivo txt
 
 ## Captura de Tela
 ![CC](https://github.com/Gabrielb04/Cadastro.Py/assets/166271886/5f7797f6-4bc0-4f9b-94a9-f05a2cf271ea)
@@ -12,8 +10,10 @@ Este é um jogo da velha em Python, criado por Gabriel.
 
 ## Como Usar
 - baixe python em sua maquina
-- baixe o arquivo : https://github.com/Gabrielb04/Jogo-da-velha.Py/blob/main/jogo%20da%20velha.py
+- baixe o arquivo : https://github.com/Gabrielb04/Cadastro.Py/blob/main/Cadastro.py
 - execute em sua area de trabalho
+- apos terminar o cadastro clique em Salvar Cadastro
+- apos salvar irá aparecer um arquivo txt que será o Banco de Dados dos Cadastros Salvos
 
 ##  Requisitos
 Python 3.x
